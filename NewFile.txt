@@ -1,0 +1,1 @@
+This is the file in the GitDemoMerge which is made in new Branch , and finally I will merge this in the master branch of the GitDemoMerge
